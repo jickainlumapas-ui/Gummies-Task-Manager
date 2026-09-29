@@ -12,9 +12,6 @@
 
 **Database Used:** SQLite
 
-![Uploading 1.png…]()
-
-
 
 ---
 
